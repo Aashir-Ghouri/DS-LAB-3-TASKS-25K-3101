@@ -6,8 +6,7 @@ void bubbleSort(int arr[], int size) {
     int totalComparisons = 0;
     int totalSwaps = 0;
     int totalPasses = 0;
-
-    // Standard unoptimized loop: always runs size - 1 passes
+    
     for (int i = 0; i < size - 1; ++i) {
         totalPasses++;
 
