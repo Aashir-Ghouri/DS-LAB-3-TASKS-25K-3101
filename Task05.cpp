@@ -78,7 +78,7 @@ int main() {
     cout << "Average Marks             : " << average << "\n";
 
     if (hasHighAchiever) {
-        cout << "High Achiever Status      : High Achiever(s) Present\n";
+        cout << "High Achiever Status      : High Achiever Present\n";
     } else {
         cout << "High Achiever Status      : No High Achiever\n";
     }
